@@ -7,6 +7,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/Dor112/Fairy/refs/heads/main/user-yourname/race-fairy.xml" />
+		<file name="race-fairy.xml" url="https://raw.githubusercontent.com/Dor112/Fairy/refs/heads/main/user-yourname/race-fairy.xml" />
 	</files>
 </index>
